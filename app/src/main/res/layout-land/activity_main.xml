@@ -38,7 +38,7 @@
         android:gravity="center"
         android:text="@string/txt_count"
         android:textAlignment="center"
-        android:textSize="160sp"
+        android:textSize="120sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/btn_count"
         app:layout_constraintEnd_toEndOf="parent"
